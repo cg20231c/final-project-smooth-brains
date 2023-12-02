@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "570cf286e70a",
+        "mtime": 1701311098682,
+        "size": 10451121,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.9.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1701311098723,
+        "size": 55195848,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1701311098725,
+        "size": 1131406,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "tarball": {
+        "hash": "b20dced74a18",
+        "mtime": 1701311098726,
+        "size": 796147,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1701311098726,
+        "size": 11691469,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.gpustats": {
+      "tarball": {
+        "hash": "c5bca7da8201",
+        "mtime": 1701311098727,
+        "size": 136802,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1701311098727,
+        "size": 343203,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.planefinding": {
+      "tarball": {
+        "hash": "ba1c62ce75c5",
+        "mtime": 1701311098727,
+        "size": 226297,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1701311098727,
+        "size": 5328617,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "b1a5df198759",
+        "mtime": 1701311098728,
+        "size": 18590,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1701311098728,
+        "size": 2111115,
+        "localPath": "D:\\Unity Proj\\MRTK Surgeon\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    }
+  }
+}
