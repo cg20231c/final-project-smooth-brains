@@ -18,6 +18,10 @@ This project is an augmented reality (AR) system that loads DICOM sequence data 
 - Cross section tools for advanced inspection of the model.
 - Slicing plane for more specific plane inspection of the model.
 
+## Documentation
+
+https://github.com/cg20231c/final-project-smooth-brains/assets/78022264/d64a374c-8402-4889-b37a-7bbf3c99dd0c
+
 ## How to use
 #### 1. Download this repository as zip
 #### 2. Unzip the downloaded file
