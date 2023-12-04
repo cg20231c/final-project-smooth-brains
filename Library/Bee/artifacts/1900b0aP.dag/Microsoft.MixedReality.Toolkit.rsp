@@ -106,6 +106,7 @@
 -define:XR_MANAGEMENT_ENABLED
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/EasyVolumeRendering/Assets/3rdparty/SimpleITK/SimpleITKCSharpManaged.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"

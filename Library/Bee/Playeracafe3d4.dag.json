@@ -1,0 +1,2814 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/boot.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/boot.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/boot.config"
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/globalgamemanagers",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/globalgamemanagers"
+      ],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/globalgamemanagers.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/globalgamemanagers.assets"
+      ],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/globalgamemanagers.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets.resS"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/globalgamemanagers.assets.resS"
+      ],
+      "DebugActionIndex": 4
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/level0",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level0"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/level0"
+      ],
+      "DebugActionIndex": 5
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/resources.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.assets"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/resources.assets"
+      ],
+      "DebugActionIndex": 6
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/resources.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.assets.resS"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/resources.assets.resS"
+      ],
+      "DebugActionIndex": 7
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/resources.resource",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.resource"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/resources.resource"
+      ],
+      "DebugActionIndex": 8
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/RuntimeInitializeOnLoads.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/RuntimeInitializeOnLoads.json"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/ScriptingAssemblies.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/ScriptingAssemblies.json"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/ScriptingAssemblies.json"
+      ],
+      "DebugActionIndex": 10
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/sharedassets0.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/sharedassets0.assets"
+      ],
+      "DebugActionIndex": 11
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/sharedassets0.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/sharedassets0.assets.resS"
+      ],
+      "DebugActionIndex": 12
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/sharedassets0.resource",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.resource"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/sharedassets0.resource"
+      ],
+      "DebugActionIndex": 13
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Resources/unity_builtin_extra",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/Resources/unity_builtin_extra"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Resources/unity_builtin_extra"
+      ],
+      "DebugActionIndex": 14
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/UnitySubsystems/MicrosoftOpenXRPlugin/UnitySubsystemsManifest.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/UnitySubsystems/MicrosoftOpenXRPlugin/UnitySubsystemsManifest.json"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/UnitySubsystems/MicrosoftOpenXRPlugin/UnitySubsystemsManifest.json"
+      ],
+      "DebugActionIndex": 15
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/MicStreamSelector.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.toolkit.micstream@10e55ce31d3e/Plugins/x64/MicStreamSelector.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/MicStreamSelector.dll"
+      ],
+      "DebugActionIndex": 17
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/GpuStats.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.toolkit.gpustats@c5bca7da8201/Plugins/x64/GpuStats.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/GpuStats.dll"
+      ],
+      "DebugActionIndex": 18
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/PerceptionDevice.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/PerceptionDevice.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/PerceptionDevice.dll"
+      ],
+      "DebugActionIndex": 19
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/MicrosoftOpenXRPlugin.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/MicrosoftOpenXRPlugin.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/MicrosoftOpenXRPlugin.dll"
+      ],
+      "DebugActionIndex": 20
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/UnityOpenXR.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.unity.xr.openxr@1.9.1/Runtime/windows/x64/UnityOpenXR.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/UnityOpenXR.dll"
+      ],
+      "DebugActionIndex": 21
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/Microsoft.Holographic.AppRemoting.OpenXr.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/Microsoft.Holographic.AppRemoting.OpenXr.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/Microsoft.Holographic.AppRemoting.OpenXr.dll"
+      ],
+      "DebugActionIndex": 22
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/Microsoft.Holographic.AppRemoting.OpenXr.SU.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/Microsoft.Holographic.AppRemoting.OpenXr.SU.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/Microsoft.Holographic.AppRemoting.OpenXr.SU.dll"
+      ],
+      "DebugActionIndex": 23
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/DebugPanel.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/DebugPanel.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/DebugPanel.dll"
+      ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/openxr_loader.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.unity.xr.openxr@1.9.1/RuntimeLoaders/windows/x64/openxr_loader.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/openxr_loader.dll"
+      ],
+      "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/PlaneFinding.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.microsoft.mixedreality.toolkit.planefinding@ba1c62ce75c5/Plugins/x64/PlaneFinding.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Plugins/x86_64/PlaneFinding.dll"
+      ],
+      "DebugActionIndex": 26
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Assembly-CSharp.dll"
+      ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.OpenXR.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.OpenXR.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.OpenXR.dll"
+      ],
+      "DebugActionIndex": 28
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Async.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Async.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Async.dll"
+      ],
+      "DebugActionIndex": 29
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.dll"
+      ],
+      "DebugActionIndex": 30
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Examples.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Examples.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Examples.dll"
+      ],
+      "DebugActionIndex": 31
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.dll"
+      ],
+      "DebugActionIndex": 32
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.dll"
+      ],
+      "DebugActionIndex": 33
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.Tracking.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.Tracking.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.Tracking.dll"
+      ],
+      "DebugActionIndex": 34
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Gltf.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Gltf.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Gltf.dll"
+      ],
+      "DebugActionIndex": 35
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.GpuStats.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.GpuStats.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.GpuStats.dll"
+      ],
+      "DebugActionIndex": 36
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.MicStream.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.MicStream.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.MicStream.dll"
+      ],
+      "DebugActionIndex": 37
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.PlaneFinding.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.PlaneFinding.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.PlaneFinding.dll"
+      ],
+      "DebugActionIndex": 38
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.LeapMotion.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.LeapMotion.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.LeapMotion.dll"
+      ],
+      "DebugActionIndex": 39
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll"
+      ],
+      "DebugActionIndex": 40
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll"
+      ],
+      "DebugActionIndex": 41
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll"
+      ],
+      "DebugActionIndex": 42
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll"
+      ],
+      "DebugActionIndex": 43
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.dll"
+      ],
+      "DebugActionIndex": 44
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll"
+      ],
+      "DebugActionIndex": 45
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.SDK.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SDK.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.SDK.dll"
+      ],
+      "DebugActionIndex": 46
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive.dll"
+      ],
+      "DebugActionIndex": 47
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll"
+      ],
+      "DebugActionIndex": 48
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll"
+      ],
+      "DebugActionIndex": 49
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll"
+      ],
+      "DebugActionIndex": 50
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll"
+      ],
+      "DebugActionIndex": 51
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSystem.dll"
+      ],
+      "DebugActionIndex": 52
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll"
+      ],
+      "DebugActionIndex": 53
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll"
+      ],
+      "DebugActionIndex": 54
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll"
+      ],
+      "DebugActionIndex": 55
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Tests.Utilities.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Tests.Utilities.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Tests.Utilities.dll"
+      ],
+      "DebugActionIndex": 56
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Tools.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Tools.Runtime.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Microsoft.MixedReality.Toolkit.Tools.Runtime.dll"
+      ],
+      "DebugActionIndex": 57
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Mono.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.Security.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Mono.Security.dll"
+      ],
+      "DebugActionIndex": 58
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/mscorlib.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/mscorlib.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/mscorlib.dll"
+      ],
+      "DebugActionIndex": 59
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/netstandard.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/netstandard.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/netstandard.dll"
+      ],
+      "DebugActionIndex": 60
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Newtonsoft.Json.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "DebugActionIndex": 61
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/SimpleITKCSharpManaged.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/SimpleITKCSharpManaged.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/SimpleITKCSharpManaged.dll"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.ComponentModel.Composition.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "DebugActionIndex": 63
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Configuration.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Configuration.dll"
+      ],
+      "DebugActionIndex": 64
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Core.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Core.dll"
+      ],
+      "DebugActionIndex": 65
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Data.DataSetExtensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "DebugActionIndex": 66
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Data.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Data.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Data.dll"
+      ],
+      "DebugActionIndex": 67
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.dll"
+      ],
+      "DebugActionIndex": 68
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Drawing.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Drawing.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Drawing.dll"
+      ],
+      "DebugActionIndex": 69
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.EnterpriseServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "DebugActionIndex": 70
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.IO.Compression.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.Compression.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.IO.Compression.dll"
+      ],
+      "DebugActionIndex": 71
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "DebugActionIndex": 72
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Net.Http.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.Http.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Net.Http.dll"
+      ],
+      "DebugActionIndex": 73
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Numerics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Numerics.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Numerics.dll"
+      ],
+      "DebugActionIndex": 74
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Runtime.Serialization.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "DebugActionIndex": 75
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Security.dll"
+      ],
+      "DebugActionIndex": 76
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.ServiceModel.Internals.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "DebugActionIndex": 77
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Transactions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Transactions.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Transactions.dll"
+      ],
+      "DebugActionIndex": 78
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Xml.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Xml.dll"
+      ],
+      "DebugActionIndex": 79
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Xml.Linq.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.Linq.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/System.Xml.Linq.dll"
+      ],
+      "DebugActionIndex": 80
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.InputSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.InputSystem.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.InputSystem.dll"
+      ],
+      "DebugActionIndex": 81
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.InputSystem.ForUI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.InputSystem.ForUI.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.InputSystem.ForUI.dll"
+      ],
+      "DebugActionIndex": 82
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.Subsystem.Registration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.Subsystem.Registration.dll"
+      ],
+      "DebugActionIndex": 83
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "DebugActionIndex": 84
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.Timeline.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Timeline.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.Timeline.dll"
+      ],
+      "DebugActionIndex": 85
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "DebugActionIndex": 86
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "DebugActionIndex": 87
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "DebugActionIndex": 88
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.State.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "DebugActionIndex": 89
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.ARFoundation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.ARFoundation.dll"
+      ],
+      "DebugActionIndex": 90
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.ARSubsystems.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.ARSubsystems.dll"
+      ],
+      "DebugActionIndex": 91
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.CoreUtils.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.CoreUtils.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.CoreUtils.dll"
+      ],
+      "DebugActionIndex": 92
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.Management.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.Management.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.Management.dll"
+      ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.dll"
+      ],
+      "DebugActionIndex": 94
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.MetaQuestSupport.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MetaQuestSupport.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.MetaQuestSupport.dll"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll"
+      ],
+      "DebugActionIndex": 97
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll"
+      ],
+      "DebugActionIndex": 98
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll"
+      ],
+      "DebugActionIndex": 99
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "DebugActionIndex": 100
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "DebugActionIndex": 101
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "DebugActionIndex": 102
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AnimationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "DebugActionIndex": 103
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ARModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "DebugActionIndex": 104
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 105
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "DebugActionIndex": 106
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ClothModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "DebugActionIndex": 107
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "DebugActionIndex": 108
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "DebugActionIndex": 109
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.CoreModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "DebugActionIndex": 110
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "DebugActionIndex": 111
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.DirectorModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "DebugActionIndex": 112
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.dll"
+      ],
+      "DebugActionIndex": 113
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "DebugActionIndex": 114
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "DebugActionIndex": 115
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.GIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "DebugActionIndex": 116
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.GridModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "DebugActionIndex": 117
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "DebugActionIndex": 118
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "DebugActionIndex": 119
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "DebugActionIndex": 121
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.InputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "DebugActionIndex": 122
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "DebugActionIndex": 123
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "DebugActionIndex": 124
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.NVIDIAModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.NVIDIAModule.dll"
+      ],
+      "DebugActionIndex": 125
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "DebugActionIndex": 126
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "DebugActionIndex": 127
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "DebugActionIndex": 128
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "DebugActionIndex": 129
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "DebugActionIndex": 130
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "DebugActionIndex": 131
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "DebugActionIndex": 132
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "DebugActionIndex": 133
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SpatialTracking.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SpatialTracking.dll"
+      ],
+      "DebugActionIndex": 134
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "DebugActionIndex": 135
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "DebugActionIndex": 136
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.StreamingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "DebugActionIndex": 137
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "DebugActionIndex": 138
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "DebugActionIndex": 139
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TerrainModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "DebugActionIndex": 140
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "DebugActionIndex": 141
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "DebugActionIndex": 142
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "DebugActionIndex": 143
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "DebugActionIndex": 144
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TilemapModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "DebugActionIndex": 145
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TLSModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "DebugActionIndex": 146
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UI.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UI.dll"
+      ],
+      "DebugActionIndex": 147
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "DebugActionIndex": 148
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "DebugActionIndex": 149
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "DebugActionIndex": 150
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UmbraModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "DebugActionIndex": 151
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UNETModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "DebugActionIndex": 152
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "DebugActionIndex": 153
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "DebugActionIndex": 154
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "DebugActionIndex": 155
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "DebugActionIndex": 156
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "DebugActionIndex": 157
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 158
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "DebugActionIndex": 159
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "DebugActionIndex": 160
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "DebugActionIndex": 161
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "DebugActionIndex": 162
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "DebugActionIndex": 163
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VFXModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "DebugActionIndex": 164
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VideoModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "DebugActionIndex": 165
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "DebugActionIndex": 166
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "DebugActionIndex": 167
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.WindModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "DebugActionIndex": 168
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll"
+      ],
+      "DebugActionIndex": 169
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.XRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "DebugActionIndex": 170
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "DefaultCompany\n_A MRTK Surgeon",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 171
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/app.info",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/app.info"
+      ],
+      "ToBuildDependencies": [
+        171
+      ],
+      "DebugActionIndex": 172
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon_Data/Resources/unity default resources",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources/unity default resources"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon_Data/Resources/unity default resources"
+      ],
+      "DebugActionIndex": 173
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/_A MRTK Surgeon.exe",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/WindowsPlayer.exe"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/_A MRTK Surgeon.exe"
+      ],
+      "DebugActionIndex": 174
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/UnityCrashHandler64.exe",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/UnityCrashHandler64.exe"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/UnityCrashHandler64.exe"
+      ],
+      "DebugActionIndex": 175
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/UnityPlayer.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/UnityPlayer.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/UnityPlayer.dll"
+      ],
+      "DebugActionIndex": 176
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+      ],
+      "DebugActionIndex": 177
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+      ],
+      "DebugActionIndex": 178
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/browscap.ini",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "DebugActionIndex": 179
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/config"
+      ],
+      "DebugActionIndex": 180
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 181
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "DebugActionIndex": 182
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "DebugActionIndex": 183
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "DebugActionIndex": 184
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 185
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 186
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "DebugActionIndex": 187
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "DebugActionIndex": 188
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "DebugActionIndex": 189
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 190
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 191
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "DebugActionIndex": 192
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "DebugActionIndex": 193
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "DebugActionIndex": 194
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 195
+    },
+    {
+      "Annotation": "CopyFiles BuildPC/FINAL/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "Outputs": [
+        "BuildPC/FINAL/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "DebugActionIndex": 196
+    },
+    {
+      "Annotation": "Player",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 197
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/WinPlayerBuildProgram.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/WinPlayerBuildProgram.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/ClassRegistrationGenerator.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/Playeracafe3d4-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "BuildPC/FINAL/GameAssembly.dll"
+    },
+    {
+      "File": "BuildPC/FINAL/UnityCommon.props"
+    },
+    {
+      "File": "BuildPC/FINAL/_A MRTK Surgeon.sln"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources"
+    },
+    {
+      "File": "Library/Bee/Playeracafe3d4-inputdata.json"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/DebugPanel.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/Microsoft.Holographic.AppRemoting.OpenXr.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/Microsoft.Holographic.AppRemoting.OpenXr.SU.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/MicrosoftOpenXRPlugin.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.openxr@570cf286e70a/Runtime/windows/x64/PerceptionDevice.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.toolkit.gpustats@c5bca7da8201/Plugins/x64/GpuStats.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.toolkit.micstream@10e55ce31d3e/Plugins/x64/MicStreamSelector.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.microsoft.mixedreality.toolkit.planefinding@ba1c62ce75c5/Plugins/x64/PlaneFinding.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.xr.openxr@1.9.1/Runtime/windows/x64/UnityOpenXR.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.xr.openxr@1.9.1/RuntimeLoaders/windows/x64/openxr_loader.dll"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "Assets/StreamingAssets",
+      "Recurse": 1
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono",
+      "Recurse": 1
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources",
+      "Recurse": 1
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2021.3.31f1/Editor/Data/Tools/BuildPipeline"
+    },
+    {
+      "Path": "Library/PlayerDataCache/Win64/Data",
+      "Recurse": 1
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Plugins"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/UnitySubsystems",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt",
+    ".config"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "Player": 197
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/Playeracafe3d4.dag.json",
+  "RelativePathToRoot": "../.."
+}

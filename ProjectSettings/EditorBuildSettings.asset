@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - HandTracking/Scenes/HandInteractionExamples.unity
     guid: 3dd4a396b5225f8469b9a1eb608bfa57
+  - enabled: 1
+    path: Assets/Scenes/HandInteractionModified.unity
+    guid: 1e9b26d9d71351b4aa5880a7a6e1d6ed
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0515d596b7846324680f430997e2f500, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 98f65fba634b0cb4ab871135cf2b8630, type: 2}
