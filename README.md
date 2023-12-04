@@ -12,5 +12,5 @@
 #### 3. Go to ./Assets/Scenes
 #### 4. *[Important]* unzip the `HandInteractionModified.rar` file
 #### 5. Open Unity Hub
-#### 6. Open existing project from the folder you already unzip
+#### 6. Open existing project from the main folder you already unzip
 #### 7. Open HandInteractionModified.scene in the Unity editor
