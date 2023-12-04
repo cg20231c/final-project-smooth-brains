@@ -6,6 +6,18 @@
 | Ahda Filza Ghaffaru   | 5025211144        |
 | Muhammad Rafi Sutrisno   | 5025211167        |
 
+## Overview
+
+This project is an augmented reality (AR) system that loads DICOM sequence data to Unity runtime as an alternative for doctors so that they don't need to manually print the DICOM slice image. This project is Unity engine based designed for Hololens devie utilizing MRTK library from Microsoft and volume rendering to model the DICOM files to actual game object. 
+
+## Features
+
+- Load DICOM sequence data as game object (only one series at a time) from PC folder and cast it to Hololens device.
+- Hand interaction with the DICOM model and the tools.
+- Basic transformation of the DICOM model and the tools.
+- Cross section tools for advanced inspection of the model.
+- Slicing plane for more specific plane inspection of the model.
+
 ## How to use
 #### 1. Download this repository as zip
 #### 2. Unzip the downloaded file
