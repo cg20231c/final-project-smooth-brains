@@ -15,6 +15,7 @@ This project is an augmented reality (AR) system that loads DICOM sequence data 
 - Load DICOM sequence data as game object (only one series at a time) from PC folder and cast it to Hololens device.
 - Hand interaction with the DICOM model and the tools.
 - Basic transformation of the DICOM model and the tools.
+- Model value range filter for specific layer model inspection.
 - Cross section tools for advanced inspection of the model.
 - Slicing plane for more specific plane inspection of the model.
 
