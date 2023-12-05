@@ -21,6 +21,13 @@ This project is an augmented reality (AR) system that loads DICOM sequence data 
 
 ## Documentation
 
+### Insert Hololens IP
+https://github.com/cg20231c/final-project-smooth-brains/assets/78022264/aee5defe-cacc-46e2-b287-5e3323226334
+
+### DICOM Loading
+https://github.com/cg20231c/final-project-smooth-brains/assets/78022264/3084a30d-2894-4a0d-8370-b53b6e33830d
+
+### Basic tools utilities
 https://github.com/cg20231c/final-project-smooth-brains/assets/78022264/d64a374c-8402-4889-b37a-7bbf3c99dd0c
 
 ## How to use
