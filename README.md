@@ -31,10 +31,9 @@ https://github.com/cg20231c/final-project-smooth-brains/assets/78022264/3084a30d
 https://github.com/cg20231c/final-project-smooth-brains/assets/78022264/d64a374c-8402-4889-b37a-7bbf3c99dd0c
 
 ## How to use
-#### 1. Download this repository as zip
-#### 2. Unzip the downloaded file
-#### 3. Go to ./Assets/Scenes
-#### 4. *[Important]* unzip the `HandInteractionModified.rar` file
-#### 5. Open Unity Hub
-#### 6. Open existing project from the main folder you already unzip
-#### 7. Open HandInteractionModified.scene in the Unity editor
+#### 1. Download or clone this repository
+#### 2. Go to ./Assets/Scenes
+#### 3. *[Important]* unzip the `HandInteractionModified.rar` file
+#### 4. Open Unity Hub
+#### 5. Open existing project
+#### 6. Open HandInteractionModified.scene in the Unity editor
